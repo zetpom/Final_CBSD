@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package covidapp;
+package covidsoapclient;
 
 import services.Covidtables;
 
@@ -11,7 +11,7 @@ import services.Covidtables;
  *
  * @author ZETPOM
  */
-public class CovidApp {
+public class CovidSoapClient {
 
     /**
      * @param args the command line arguments
